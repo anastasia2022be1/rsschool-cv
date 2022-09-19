@@ -6,6 +6,7 @@
 - __Tel:__ (+38) 066 205 96 92
 ---
 ### About myself:
+
 I believe that  front-end development satisfies my need for creativity. It enable me to easily put my ideas into digital form and get results back really quick. I still remember the first time I created an HTML page 'Hello World' and opened it in the browser. A whole new world of possibilities appeared before my eyes.
 
 I became really passionate and keep creating since then. I’m really grateful that I’m able to  made my passion my work.
