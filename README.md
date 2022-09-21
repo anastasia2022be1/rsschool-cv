@@ -1,1 +1,1 @@
-https://anastasia2022be1.github.io/rsschool-cv/cv
+https://anastasia2022be1.github.io/rsschool-cv/
